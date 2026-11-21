@@ -1,0 +1,46 @@
+{
+  "sets": [
+    {"id": "ph-greetings", "title": "Phrases: greetings and introductions", "level": "A1", "phrases": [
+      ["Hola, ¿qué tal?", "Hi, how are you?"], ["Buenos días", "Good morning"], ["Buenas tardes", "Good afternoon, good evening"], ["Buenas noches", "Good night"],
+      ["¿Cómo estás?", "How are you? (informal)"], ["Muy bien, gracias", "Very well, thanks"], ["Me llamo Alex", "My name is Alex"], ["¿Cómo te llamas?", "What's your name? (informal)"],
+      ["Mucho gusto", "Nice to meet you"], ["Encantado", "Delighted to meet you (said by a man)"], ["Hasta luego", "See you later"], ["Hasta mañana", "See you tomorrow"]
+    ]},
+    {"id": "ph-class", "title": "Phrases: in class", "level": "A1", "phrases": [
+      ["No entiendo", "I don't understand"], ["¿Puede repetir, por favor?", "Can you repeat that, please? (formal)"], ["¿Puedes hablar más despacio?", "Can you speak more slowly? (informal)"],
+      ["¿Qué significa esto?", "What does this mean?"], ["¿Cómo se escribe?", "How do you spell it?"], ["¿Cómo se dice en español?", "How do you say it in Spanish?"],
+      ["Hablo un poco de español", "I speak a little Spanish"], ["Estoy aprendiendo español", "I'm learning Spanish"], ["Tengo una pregunta", "I have a question"],
+      ["No lo sé", "I don't know"], ["¿Habla inglés?", "Do you speak English? (formal)"]
+    ]},
+    {"id": "ph-bar", "title": "Phrases: bar and restaurant", "level": "A1", "phrases": [
+      ["Una mesa para dos, por favor", "A table for two, please"], ["¿Qué me recomienda?", "What do you recommend? (formal)"], ["Quería un café con leche", "I'd like a white coffee"],
+      ["Para mí, una cerveza", "A beer for me"], ["¿Me trae la carta, por favor?", "Could you bring me the menu, please?"], ["¿Tienen menú del día?", "Do you have a set lunch menu?"],
+      ["La cuenta, por favor", "The bill, please"], ["¿Puedo pagar con tarjeta?", "Can I pay by card?"], ["Está muy rico", "It's delicious"], ["Otra caña, por favor", "Another small beer, please"]
+    ]},
+    {"id": "ph-shopping", "title": "Phrases: shopping", "level": "A1", "phrases": [
+      ["¿Cuánto cuesta?", "How much does it cost?"], ["¿Cuánto es?", "How much is it (altogether)?"], ["Solo estoy mirando", "I'm just looking"],
+      ["¿Tiene una talla más grande?", "Do you have a bigger size? (formal)"], ["¿Puedo probármelo?", "Can I try it on?"], ["Me lo llevo", "I'll take it"],
+      ["¿Dónde está la caja?", "Where is the checkout?"], ["¿Me da una bolsa, por favor?", "Can I have a bag, please?"], ["Nada más, gracias", "That's all, thanks"], ["¿Aceptan tarjeta?", "Do you take cards?"]
+    ]},
+    {"id": "ph-directions", "title": "Phrases: getting around", "level": "A1", "phrases": [
+      ["¿Dónde está el metro?", "Where is the metro?"], ["¿Cómo llego a la playa?", "How do I get to the beach?"], ["Está cerca", "It's nearby"], ["Está lejos", "It's far"],
+      ["A la derecha", "On the right, to the right"], ["A la izquierda", "On the left, to the left"], ["Todo recto", "Straight on"], ["Un billete para Sitges, por favor", "A ticket to Sitges, please"],
+      ["¿A qué hora sale el tren?", "What time does the train leave?"], ["¿Dónde está la parada de autobús?", "Where is the bus stop?"]
+    ]},
+    {"id": "ph-health", "title": "Phrases: at the doctor", "level": "A1", "phrases": [
+      ["Me duele la cabeza", "I have a headache"], ["Me encuentro mal", "I feel unwell"], ["Tengo fiebre", "I have a temperature"], ["Estoy resfriado", "I have a cold"],
+      ["Tengo una cita con el médico", "I have an appointment with the doctor"], ["Necesito una receta", "I need a prescription"], ["¿Dónde está la farmacia más cercana?", "Where is the nearest pharmacy?"],
+      ["Tengo seguro médico", "I have health insurance"], ["¿Cada cuánto tengo que tomarlo?", "How often do I have to take it?"], ["Llame a una ambulancia", "Call an ambulance (formal)"]
+    ]},
+    {"id": "ph-admin", "title": "Phrases: bank and admin", "level": "A1", "phrases": [
+      ["Quería pedir una cita", "I'd like to make an appointment"], ["Tengo una cita a las diez", "I have an appointment at ten"], ["¿Qué documentos necesito?", "What documents do I need?"],
+      ["Aquí tiene mi pasaporte", "Here is my passport (formal)"], ["Quiero abrir una cuenta bancaria", "I want to open a bank account"], ["¿Dónde tengo que firmar?", "Where do I have to sign?"],
+      ["¿Cuánto tiempo tarda?", "How long does it take?"], ["Todavía no tengo NIE", "I don't have an NIE yet"], ["¿Puedo hacerlo por internet?", "Can I do it online?"], ["¿Me lo puede explicar?", "Can you explain it to me? (formal)"]
+    ]},
+    {"id": "ph-work", "title": "Phrases: work and small talk", "level": "A1", "phrases": [
+      ["¿A qué te dedicas?", "What do you do (for work)?"], ["Trabajo como jefe de producto", "I work as a product manager"], ["Vivo en Barcelona desde noviembre", "I've lived in Barcelona since November"],
+      ["¿Qué tal el fin de semana?", "How was the weekend?"], ["¿Tomamos un café?", "Shall we get a coffee?"], ["Tengo una reunión a las tres", "I have a meeting at three"],
+      ["Perdón, llego tarde", "Sorry, I'm late"], ["¿Quedamos mañana?", "Shall we meet tomorrow?"], ["¡Buen fin de semana!", "Have a good weekend!"], ["¡Qué bien!", "Great! How nice!"],
+      ["Vale", "OK"], ["No pasa nada", "No problem, don't worry"]
+    ]}
+  ]
+}

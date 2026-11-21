@@ -1,0 +1,167 @@
+{
+  "_format": "Each word: [spanish, english, type, extra, note]. Types: n noun (extra = plural override, '-' = no plural), a adjective (extra = m/f/mpl/fpl), x other word, num number (english = digits).",
+  "themes": [
+    {"id": "home", "title": "At home", "level": "A1", "words": [
+      ["el piso", "flat, apartment", "n"], ["la casa", "house, home", "n"], ["la habitación", "room, bedroom", "n"], ["la cocina", "kitchen", "n"],
+      ["el baño", "bathroom, toilet", "n"], ["el salón", "living room", "n"], ["el dormitorio", "bedroom", "n"], ["la puerta", "door", "n"],
+      ["la ventana", "window", "n"], ["la mesa", "table", "n"], ["la silla", "chair", "n"], ["la cama", "bed", "n"],
+      ["la llave", "key", "n"], ["el sofá", "sofa", "n"], ["el armario", "wardrobe, cupboard", "n"], ["la nevera", "fridge", "n"],
+      ["la lámpara", "lamp", "n"], ["el espejo", "mirror", "n"], ["la ducha", "shower", "n"], ["el balcón", "balcony", "n"],
+      ["la terraza", "terrace, roof terrace", "n"], ["el ascensor", "lift", "n"], ["la escalera", "stairs, staircase", "n"], ["el suelo", "floor", "n"],
+      ["la pared", "wall", "n"], ["el techo", "ceiling, roof", "n"], ["la luz", "light, electricity", "n"], ["la calefacción", "heating", "n", "-"],
+      ["el aire acondicionado", "air conditioning", "n", "-"], ["la lavadora", "washing machine", "n"], ["el lavavajillas", "dishwasher", "n", "los lavavajillas"], ["el horno", "oven", "n"],
+      ["el microondas", "microwave", "n", "los microondas"], ["la toalla", "towel", "n"], ["la almohada", "pillow", "n"], ["la sábana", "sheet (bed)", "n"],
+      ["el alquiler", "rent", "n"], ["el contrato", "contract", "n"], ["el vecino", "neighbour (man)", "n"], ["la vecina", "neighbour (woman)", "n"],
+      ["la basura", "rubbish, bin", "n", "-"], ["la planta", "floor (storey), plant", "n"], ["el edificio", "building", "n"], ["el jardín", "garden", "n"]
+    ]},
+    {"id": "food", "title": "Food and drink", "level": "A1", "words": [
+      ["el agua", "water", "n", "las aguas", "Feminine, but takes el in the singular because it starts with a stressed a-."],
+      ["el pan", "bread", "n"], ["el café", "coffee", "n"], ["la leche", "milk", "n", "-"], ["el té", "tea", "n", "los tés"],
+      ["el zumo", "juice", "n"], ["la cerveza", "beer", "n"], ["el vino", "wine", "n"], ["el queso", "cheese", "n"],
+      ["el huevo", "egg", "n"], ["la carne", "meat", "n"], ["el pollo", "chicken", "n"], ["el pescado", "fish (as food)", "n"],
+      ["el jamón", "ham", "n"], ["el arroz", "rice", "n"], ["la pasta", "pasta", "n", "-"], ["la ensalada", "salad", "n"],
+      ["la sopa", "soup", "n"], ["la fruta", "fruit", "n"], ["la manzana", "apple", "n"], ["la naranja", "orange", "n"],
+      ["el plátano", "banana", "n"], ["la fresa", "strawberry", "n"], ["el tomate", "tomato", "n"], ["la patata", "potato", "n"],
+      ["la cebolla", "onion", "n"], ["el ajo", "garlic", "n"], ["la verdura", "vegetable", "n"], ["el aceite", "oil", "n"],
+      ["la sal", "salt", "n", "-"], ["el azúcar", "sugar", "n", "-"], ["el desayuno", "breakfast", "n"], ["la comida", "lunch, food", "n"],
+      ["la cena", "dinner", "n"], ["el bocadillo", "sandwich (in a baguette)", "n"], ["la tortilla", "Spanish omelette", "n"], ["la tapa", "tapa, small dish", "n"],
+      ["el postre", "dessert", "n"], ["el helado", "ice cream", "n"], ["la cuenta", "bill (in a restaurant)", "n"], ["el menú", "menu, set menu", "n"],
+      ["el camarero", "waiter", "n"], ["la camarera", "waitress", "n"], ["el vaso", "glass", "n"], ["la botella", "bottle", "n"],
+      ["el plato", "plate, dish", "n"], ["la taza", "cup, mug", "n"], ["el tenedor", "fork", "n"], ["el cuchillo", "knife", "n"], ["la cuchara", "spoon", "n"]
+    ]},
+    {"id": "people", "title": "People and family", "level": "A1", "words": [
+      ["la familia", "family", "n"], ["el padre", "father", "n"], ["la madre", "mother", "n"], ["los padres", "parents", "n", "-", "Plural of el padre, used for parents (mother and father)."],
+      ["el hermano", "brother", "n"], ["la hermana", "sister", "n"], ["el hijo", "son", "n"], ["la hija", "daughter", "n"],
+      ["el abuelo", "grandfather", "n"], ["la abuela", "grandmother", "n"], ["el tío", "uncle", "n"], ["la tía", "aunt", "n"],
+      ["el primo", "cousin (man)", "n"], ["la prima", "cousin (woman)", "n"], ["el marido", "husband", "n"], ["la mujer", "woman, wife", "n"],
+      ["el hombre", "man", "n"], ["el novio", "boyfriend", "n"], ["la novia", "girlfriend", "n"], ["la pareja", "partner, couple", "n"],
+      ["el amigo", "friend (man)", "n"], ["la amiga", "friend (woman)", "n"], ["el niño", "boy, child", "n"], ["la niña", "girl", "n"],
+      ["el bebé", "baby", "n"], ["la gente", "people", "n", "-", "Singular in Spanish: la gente es simpática."], ["la persona", "person", "n"],
+      ["el compañero", "colleague, classmate (man)", "n"], ["la compañera", "colleague, classmate (woman)", "n"], ["el nombre", "name", "n"],
+      ["el apellido", "surname", "n"], ["la edad", "age", "n"], ["el cumpleaños", "birthday", "n", "los cumpleaños"]
+    ]},
+    {"id": "work", "title": "Work", "level": "A1", "words": [
+      ["el trabajo", "job, work", "n"], ["la oficina", "office", "n"], ["la empresa", "company", "n"], ["el jefe", "boss (man)", "n"],
+      ["la jefa", "boss (woman)", "n"], ["la reunión", "meeting", "n"], ["el ordenador", "computer", "n"], ["el portátil", "laptop", "n", "los portátiles"],
+      ["el móvil", "mobile phone", "n", "los móviles"], ["el correo electrónico", "email", "n", "los correos electrónicos"], ["el mensaje", "message", "n"], ["la llamada", "phone call", "n"],
+      ["el equipo", "team, equipment", "n"], ["el proyecto", "project", "n"], ["el cliente", "client, customer", "n"], ["el sueldo", "salary", "n"],
+      ["el horario", "timetable, working hours", "n"], ["la entrevista", "interview", "n"], ["el puesto", "position, job", "n"], ["la tarea", "task, homework", "n"],
+      ["el informe", "report", "n"], ["la pantalla", "screen", "n"], ["la contraseña", "password", "n"], ["el teclado", "keyboard", "n"],
+      ["la impresora", "printer", "n"], ["el escritorio", "desk", "n"], ["el producto", "product", "n"], ["el usuario", "user", "n"],
+      ["la herramienta", "tool", "n"], ["la idea", "idea", "n"], ["la pregunta", "question", "n"], ["la respuesta", "answer", "n"],
+      ["el problema", "problem", "n", null, "Masculine despite ending in -a."], ["la solución", "solution", "n"], ["el plazo", "deadline, time limit", "n"],
+      ["el día libre", "day off", "n", "los días libres"], ["las vacaciones", "holidays", "n", "-", "Always plural in Spanish."]
+    ]},
+    {"id": "city", "title": "City and transport", "level": "A1", "words": [
+      ["la ciudad", "city", "n"], ["la calle", "street", "n"], ["la plaza", "square", "n"], ["el barrio", "neighbourhood", "n"],
+      ["el centro", "centre, city centre", "n"], ["el parque", "park", "n"], ["la playa", "beach", "n"], ["el mar", "sea", "n"],
+      ["la tienda", "shop", "n"], ["el supermercado", "supermarket", "n"], ["el mercado", "market", "n"], ["el banco", "bank, bench", "n"],
+      ["la farmacia", "pharmacy", "n"], ["el hospital", "hospital", "n"], ["el ayuntamiento", "town hall", "n"], ["la estación", "station", "n"],
+      ["el metro", "metro, underground", "n"], ["el autobús", "bus", "n"], ["el tren", "train", "n"], ["el taxi", "taxi", "n"],
+      ["el coche", "car", "n"], ["la bicicleta", "bicycle", "n"], ["el aeropuerto", "airport", "n"], ["el avión", "plane", "n"],
+      ["el billete", "ticket (travel)", "n"], ["la parada", "stop (bus, tram)", "n"], ["la esquina", "corner", "n"], ["el semáforo", "traffic light", "n"],
+      ["el museo", "museum", "n"], ["la iglesia", "church", "n"], ["el restaurante", "restaurant", "n"], ["el bar", "bar, café", "n"],
+      ["el hotel", "hotel", "n"], ["la biblioteca", "library", "n"], ["el gimnasio", "gym", "n"], ["el cine", "cinema", "n"],
+      ["el mapa", "map", "n", null, "Masculine despite ending in -a."], ["la dirección", "address, direction", "n"], ["el puerto", "port, harbour", "n"], ["la montaña", "mountain", "n"]
+    ]},
+    {"id": "time", "title": "Time and routine", "level": "A1", "words": [
+      ["el día", "day", "n", null, "Masculine despite ending in -a."], ["la semana", "week", "n"], ["el mes", "month", "n", "los meses"], ["el año", "year", "n"],
+      ["la hora", "hour, time", "n"], ["el minuto", "minute", "n"], ["la mañana", "morning", "n"], ["la tarde", "afternoon, evening", "n"],
+      ["la noche", "night", "n"], ["el fin de semana", "weekend", "n"], ["el lunes", "Monday", "n", "los lunes"], ["el martes", "Tuesday", "n", "los martes"],
+      ["el miércoles", "Wednesday", "n", "los miércoles"], ["el jueves", "Thursday", "n", "los jueves"], ["el viernes", "Friday", "n", "los viernes"], ["el sábado", "Saturday", "n"],
+      ["el domingo", "Sunday", "n"], ["hoy", "today", "x"], ["mañana", "tomorrow", "x"], ["ayer", "yesterday", "x"],
+      ["ahora", "now", "x"], ["luego", "later, then", "x"], ["siempre", "always", "x"], ["nunca", "never", "x"],
+      ["a veces", "sometimes", "x"], ["temprano", "early", "x"], ["tarde", "late", "x"], ["todos los días", "every day", "x"],
+      ["el invierno", "winter", "n"], ["la primavera", "spring", "n"], ["el verano", "summer", "n"], ["el otoño", "autumn", "n"],
+      ["enero", "January", "x"], ["febrero", "February", "x"], ["marzo", "March", "x"], ["abril", "April", "x"],
+      ["mayo", "May", "x"], ["junio", "June", "x"], ["julio", "July", "x"], ["agosto", "August", "x"],
+      ["septiembre", "September", "x"], ["octubre", "October", "x"], ["noviembre", "November", "x"], ["diciembre", "December", "x"]
+    ]},
+    {"id": "health", "title": "Health and the body", "level": "A1", "words": [
+      ["la salud", "health", "n", "-"], ["el cuerpo", "body", "n"], ["la cabeza", "head", "n"], ["la cara", "face", "n"],
+      ["el ojo", "eye", "n"], ["la nariz", "nose", "n"], ["la boca", "mouth", "n"], ["el diente", "tooth", "n"],
+      ["la oreja", "ear", "n"], ["el cuello", "neck", "n"], ["la espalda", "back", "n"], ["el brazo", "arm", "n"],
+      ["la mano", "hand", "n", null, "Feminine despite ending in -o."], ["el dedo", "finger, toe", "n"], ["la pierna", "leg", "n"], ["el pie", "foot", "n"],
+      ["el estómago", "stomach", "n"], ["el corazón", "heart", "n"], ["el médico", "doctor (man)", "n"], ["la médica", "doctor (woman)", "n"],
+      ["el dentista", "dentist", "n"], ["la cita", "appointment, date", "n"], ["la receta", "prescription, recipe", "n"], ["la pastilla", "pill, tablet", "n"],
+      ["el medicamento", "medicine", "n"], ["el dolor", "pain, ache", "n"], ["la fiebre", "fever, temperature", "n"], ["el resfriado", "cold (illness)", "n"],
+      ["la tos", "cough", "n", "-"], ["la gripe", "flu", "n", "-"], ["el seguro", "insurance", "n"], ["la tarjeta sanitaria", "health card", "n", "las tarjetas sanitarias"],
+      ["las urgencias", "A&E, emergency department", "n", "-"], ["el centro de salud", "health centre, GP surgery", "n"]
+    ]},
+    {"id": "admin", "title": "Bank and admin", "level": "A1", "words": [
+      ["el dinero", "money", "n", "-"], ["la tarjeta", "card", "n"], ["la cuenta bancaria", "bank account", "n", "las cuentas bancarias"], ["el cajero automático", "cash machine", "n", "los cajeros automáticos"],
+      ["el efectivo", "cash", "n", "-"], ["el pago", "payment", "n"], ["la transferencia", "bank transfer", "n"], ["el recibo", "receipt, bill", "n"],
+      ["la factura", "invoice, bill", "n"], ["el precio", "price", "n"], ["el euro", "euro", "n"], ["el documento", "document", "n"],
+      ["el pasaporte", "passport", "n"], ["el DNI", "Spanish ID card", "n", "los DNI"], ["el NIE", "foreigner ID number (NIE)", "n", "-"], ["el formulario", "form", "n"],
+      ["la firma", "signature", "n"], ["la fecha", "date", "n"], ["el número", "number", "n"], ["el empadronamiento", "registration at the town hall", "n", "-"],
+      ["el certificado", "certificate", "n"], ["la ventanilla", "counter, window (at an office)", "n"], ["la cola", "queue", "n"], ["el impuesto", "tax", "n"],
+      ["la seguridad social", "social security", "n", "-"], ["el permiso", "permit, permission", "n"], ["la solicitud", "application", "n"], ["el sobre", "envelope", "n"],
+      ["el paquete", "parcel, package", "n"], ["el correo", "post, mail", "n"]
+    ]},
+    {"id": "freetime", "title": "Free time", "level": "A1", "words": [
+      ["el tiempo libre", "free time", "n", "-"], ["la música", "music", "n", "-"], ["la película", "film", "n"], ["la serie", "series (TV)", "n", "las series"],
+      ["el libro", "book", "n"], ["el deporte", "sport", "n"], ["el fútbol", "football", "n", "-"], ["el partido", "match, game", "n"],
+      ["el viaje", "trip, journey", "n"], ["la fiesta", "party", "n"], ["el concierto", "concert", "n"], ["la canción", "song", "n"],
+      ["el juego", "game", "n"], ["la foto", "photo", "n", null, "Feminine despite ending in -o (short for la fotografía)."], ["el teatro", "theatre", "n"], ["la exposición", "exhibition", "n"],
+      ["el paseo", "walk, stroll", "n"], ["la clase", "class, lesson", "n"], ["el curso", "course", "n"], ["el idioma", "language", "n", null, "Masculine despite ending in -a."],
+      ["el español", "Spanish (language)", "n", "-"], ["el inglés", "English (language)", "n", "-"], ["el alemán", "German (language)", "n", "-"], ["el periódico", "newspaper", "n"],
+      ["la revista", "magazine", "n"], ["la piscina", "swimming pool", "n"], ["la guitarra", "guitar", "n"], ["el baile", "dance, dancing", "n"]
+    ]},
+    {"id": "weather", "title": "Weather and nature", "level": "A1", "words": [
+      ["el tiempo", "weather, time", "n", "-"], ["el sol", "sun", "n", "-"], ["la lluvia", "rain", "n", "-"], ["la nieve", "snow", "n", "-"],
+      ["el viento", "wind", "n"], ["la nube", "cloud", "n"], ["el calor", "heat", "n", "-"], ["el frío", "cold", "n", "-"],
+      ["la temperatura", "temperature", "n"], ["el grado", "degree", "n"], ["el cielo", "sky", "n"], ["la tormenta", "storm", "n"],
+      ["el árbol", "tree", "n", "los árboles"], ["la flor", "flower", "n"], ["el río", "river", "n"], ["el campo", "countryside, field", "n"],
+      ["el lago", "lake", "n"], ["la isla", "island", "n"], ["el animal", "animal", "n"], ["el perro", "dog", "n"],
+      ["el gato", "cat", "n"], ["el pájaro", "bird", "n"]
+    ]},
+    {"id": "shopping", "title": "Shopping and clothes", "level": "A1", "words": [
+      ["la ropa", "clothes", "n", "-", "Singular in Spanish: la ropa está limpia."], ["la camisa", "shirt", "n"], ["la camiseta", "T-shirt", "n"], ["los pantalones", "trousers", "n", "-", "Usually plural: unos pantalones."],
+      ["la falda", "skirt", "n"], ["el vestido", "dress", "n"], ["la chaqueta", "jacket", "n"], ["el abrigo", "coat", "n"],
+      ["el zapato", "shoe", "n"], ["la bota", "boot", "n"], ["el calcetín", "sock", "n"], ["el bolso", "handbag", "n"],
+      ["la mochila", "backpack, rucksack", "n"], ["la talla", "size (clothes)", "n"], ["el color", "colour", "n"], ["la caja", "checkout, till, box", "n"],
+      ["el probador", "fitting room", "n"], ["la oferta", "special offer", "n"], ["las rebajas", "the sales", "n", "-"], ["la bolsa", "bag", "n"],
+      ["el regalo", "present, gift", "n"], ["el centro comercial", "shopping centre", "n", "los centros comerciales"], ["la marca", "brand", "n"], ["el tamaño", "size", "n"]
+    ]},
+    {"id": "describing", "title": "Describing things (adjectives)", "level": "A1", "words": [
+      ["bueno", "good", "a", "bueno/buena/buenos/buenas"], ["malo", "bad", "a", "malo/mala/malos/malas"], ["grande", "big", "a", "grande/grande/grandes/grandes"], ["pequeño", "small", "a", "pequeño/pequeña/pequeños/pequeñas"],
+      ["nuevo", "new", "a", "nuevo/nueva/nuevos/nuevas"], ["viejo", "old", "a", "viejo/vieja/viejos/viejas"], ["joven", "young", "a", "joven/joven/jóvenes/jóvenes"], ["bonito", "pretty, nice", "a", "bonito/bonita/bonitos/bonitas"],
+      ["feo", "ugly", "a", "feo/fea/feos/feas"], ["alto", "tall, high", "a", "alto/alta/altos/altas"], ["bajo", "short (height), low", "a", "bajo/baja/bajos/bajas"], ["largo", "long", "a", "largo/larga/largos/largas"],
+      ["corto", "short (length)", "a", "corto/corta/cortos/cortas"], ["caro", "expensive", "a", "caro/cara/caros/caras"], ["barato", "cheap", "a", "barato/barata/baratos/baratas"], ["fácil", "easy", "a", "fácil/fácil/fáciles/fáciles"],
+      ["difícil", "difficult", "a", "difícil/difícil/difíciles/difíciles"], ["rápido", "fast", "a", "rápido/rápida/rápidos/rápidas"], ["lento", "slow", "a", "lento/lenta/lentos/lentas"], ["caliente", "hot (to the touch)", "a", "caliente/caliente/calientes/calientes"],
+      ["frío", "cold", "a", "frío/fría/fríos/frías"], ["limpio", "clean", "a", "limpio/limpia/limpios/limpias"], ["sucio", "dirty", "a", "sucio/sucia/sucios/sucias"], ["lleno", "full", "a", "lleno/llena/llenos/llenas"],
+      ["vacío", "empty", "a", "vacío/vacía/vacíos/vacías"], ["abierto", "open", "a", "abierto/abierta/abiertos/abiertas"], ["cerrado", "closed", "a", "cerrado/cerrada/cerrados/cerradas"], ["contento", "happy, pleased", "a", "contento/contenta/contentos/contentas"],
+      ["feliz", "happy", "a", "feliz/feliz/felices/felices"], ["triste", "sad", "a", "triste/triste/tristes/tristes"], ["cansado", "tired", "a", "cansado/cansada/cansados/cansadas"], ["enfermo", "ill", "a", "enfermo/enferma/enfermos/enfermas"],
+      ["ocupado", "busy", "a", "ocupado/ocupada/ocupados/ocupadas"], ["libre", "free, available", "a", "libre/libre/libres/libres"], ["importante", "important", "a", "importante/importante/importantes/importantes"], ["interesante", "interesting", "a", "interesante/interesante/interesantes/interesantes"],
+      ["aburrido", "boring, bored", "a", "aburrido/aburrida/aburridos/aburridas"], ["divertido", "fun", "a", "divertido/divertida/divertidos/divertidas"], ["simpático", "nice, friendly", "a", "simpático/simpática/simpáticos/simpáticas"], ["amable", "kind", "a", "amable/amable/amables/amables"],
+      ["tranquilo", "calm, quiet", "a", "tranquilo/tranquila/tranquilos/tranquilas"], ["ruidoso", "noisy", "a", "ruidoso/ruidosa/ruidosos/ruidosas"], ["mismo", "same", "a", "mismo/misma/mismos/mismas"], ["otro", "other, another", "a", "otro/otra/otros/otras"],
+      ["primero", "first", "a", "primero/primera/primeros/primeras"], ["último", "last", "a", "último/última/últimos/últimas"], ["mucho", "a lot of, many", "a", "mucho/mucha/muchos/muchas"], ["poco", "little, few", "a", "poco/poca/pocos/pocas"],
+      ["español", "Spanish", "a", "español/española/españoles/españolas"], ["inglés", "English", "a", "inglés/inglesa/ingleses/inglesas"], ["alemán", "German", "a", "alemán/alemana/alemanes/alemanas"], ["rojo", "red", "a", "rojo/roja/rojos/rojas"],
+      ["azul", "blue", "a", "azul/azul/azules/azules"], ["verde", "green", "a", "verde/verde/verdes/verdes"], ["amarillo", "yellow", "a", "amarillo/amarilla/amarillos/amarillas"], ["blanco", "white", "a", "blanco/blanca/blancos/blancas"],
+      ["negro", "black", "a", "negro/negra/negros/negras"], ["gris", "grey", "a", "gris/gris/grises/grises"]
+    ]},
+    {"id": "basics", "title": "Essential little words", "level": "A1", "words": [
+      ["sí", "yes", "x"], ["no", "no, not", "x"], ["por favor", "please", "x"], ["gracias", "thank you", "x"],
+      ["hola", "hello", "x"], ["adiós", "goodbye", "x"], ["aquí", "here", "x"], ["allí", "there", "x"],
+      ["con", "with", "x"], ["sin", "without", "x"], ["para", "for, in order to", "x"], ["de", "of, from", "x"],
+      ["en", "in, on, at", "x"], ["muy", "very", "x"], ["más", "more", "x"], ["menos", "less", "x"],
+      ["también", "also, too", "x"], ["pero", "but", "x"], ["y", "and", "x"], ["o", "or", "x"],
+      ["porque", "because", "x"], ["cuando", "when (not a question)", "x"], ["¿qué?", "what?", "x"], ["¿quién?", "who?", "x"],
+      ["¿dónde?", "where?", "x"], ["¿cuándo?", "when?", "x"], ["¿cómo?", "how?", "x"], ["¿cuánto?", "how much?", "x"],
+      ["¿por qué?", "why?", "x"], ["¿cuál?", "which?", "x"], ["bien", "well, fine", "x"], ["mal", "badly, unwell", "x"],
+      ["algo", "something", "x"], ["nada", "nothing", "x"], ["alguien", "someone", "x"], ["nadie", "nobody", "x"],
+      ["cerca", "near, nearby", "x"], ["lejos", "far", "x"], ["antes", "before", "x"], ["después", "after, afterwards", "x"],
+      ["ya", "already", "x"], ["todavía", "still, yet", "x"], ["hay", "there is, there are", "x"]
+    ]},
+    {"id": "numbers", "title": "Numbers", "level": "A1", "words": [
+      ["cero", "0", "num"], ["uno", "1", "num"], ["dos", "2", "num"], ["tres", "3", "num"], ["cuatro", "4", "num"],
+      ["cinco", "5", "num"], ["seis", "6", "num"], ["siete", "7", "num"], ["ocho", "8", "num"], ["nueve", "9", "num"],
+      ["diez", "10", "num"], ["once", "11", "num"], ["doce", "12", "num"], ["trece", "13", "num"], ["catorce", "14", "num"],
+      ["quince", "15", "num"], ["dieciséis", "16", "num"], ["diecisiete", "17", "num"], ["dieciocho", "18", "num"], ["diecinueve", "19", "num"],
+      ["veinte", "20", "num"], ["veintiuno", "21", "num"], ["veintidós", "22", "num"], ["treinta", "30", "num"], ["treinta y cinco", "35", "num"],
+      ["cuarenta", "40", "num"], ["cincuenta", "50", "num"], ["sesenta", "60", "num"], ["setenta", "70", "num"], ["ochenta", "80", "num"],
+      ["noventa", "90", "num"], ["cien", "100", "num"], ["ciento veinte", "120", "num"], ["doscientos", "200", "num"], ["quinientos", "500", "num"],
+      ["mil", "1000", "num"], ["dos mil veintiséis", "2026", "num"]
+    ]}
+  ]
+}
